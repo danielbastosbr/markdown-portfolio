@@ -1,0 +1,3 @@
+- [Github](https://www.github.com/danielbastosbr)
+- [Twitter](https://www.twitter.com/danielbastos)
+- [Linkedin](https://www.linkedin.com/in/danielbastosbr)
