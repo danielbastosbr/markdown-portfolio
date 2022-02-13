@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+- [Github](https://www.github.com/danielbastosbr)
+- [Twitter](https://www.twitter.com/danielbastos)
+- [Linkedin](https://www.linkedin.com/in/danielbastosbr)
